@@ -1,0 +1,30 @@
+*, body, div, p, ul, li, h1, h2, h3{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, 'Helvetica', sans-serif;
+    text-align: center;
+    background-color: rgba(145,171,255,1);
+}
+h1{
+    padding: 25px 0;
+}
+div.content{
+    text-align: left;
+    padding: 0 45px;
+    margin: 0 45px;
+    background-color: white;
+    height: 450px;
+}
+p{
+    padding-top: 25px;
+}
+ul{
+    margin: 5px 0;
+}
+
+li{
+    list-style: decimal;
+    padding: 10px 0;
+}

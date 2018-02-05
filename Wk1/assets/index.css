@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-image: url("michaelscott.jpg");
+    background-size: cover;
+}
+div.textDiv{
+    z-index: 1;
+    background-color: rgba(0,0,0,.5);
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    /* height: inherit; */
+    /* width: 50%; */
+    /* margin: 250px 100px; */
+}
+p{
+    color: white;
+    font-size: 56px;
+    margin: 0;
+    text-align: center;
+}
