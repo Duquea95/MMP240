@@ -15,7 +15,8 @@ div.content{
     padding: 0 45px;
     margin: 0 45px;
     background-color: white;
-    height: 450px;
+    height: 590px;
+    border: 1px solid black;
 }
 p{
     font-family: Didot, "Didot LT STD", serif;
